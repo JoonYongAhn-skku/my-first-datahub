@@ -9,7 +9,7 @@ Original file is located at
 ##Install
 """
 
-!pip install streamlit plotly pandas -q
+
 !npm install -g localtunnel -q
 
 # Commented out IPython magic to ensure Python compatibility.
