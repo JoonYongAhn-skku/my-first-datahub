@@ -10,7 +10,7 @@ Original file is located at
 """
 
 
-!npm install -g localtunnel -q
+
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile movie_dashboard.py
